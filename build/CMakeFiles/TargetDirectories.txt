@@ -1,0 +1,5 @@
+/home/sanskar/code/DBMS_Cpp/build/CMakeFiles/dbms_lib.dir
+/home/sanskar/code/DBMS_Cpp/build/CMakeFiles/dbms_cli.dir
+/home/sanskar/code/DBMS_Cpp/build/CMakeFiles/dbms_tests.dir
+/home/sanskar/code/DBMS_Cpp/build/CMakeFiles/edit_cache.dir
+/home/sanskar/code/DBMS_Cpp/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/dbms_cli.dir/link.d CMakeFiles/dbms_cli.dir/src/main.cpp.o -o dbms_cli  libdbms_lib.a
